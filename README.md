@@ -13,7 +13,7 @@ A dark, story-driven souls-like where you play as a warrior capable of transform
 
 The more you transform, the stronger you become — and the less human you remain.
 
-<img width="32" height="32" alt="Knight_Demon" src="https://github.com/user-attachments/assets/6a2f99b2-c5b3-4554-98a1-14a2f89331b7" />
+<img width="64" height="64" alt="Knight_Demon" src="https://github.com/user-attachments/assets/6a2f99b2-c5b3-4554-98a1-14a2f89331b7" />
 
 ---
 
