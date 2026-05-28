@@ -1,3 +1,4 @@
+
 # [Pelin nimi tulossa]
 
 > *"Every transformation costs something. The question is how much you're willing to lose."*
@@ -11,6 +12,8 @@ A work-in-progress souls-like pixel art game built in Unity — solo developed.
 A dark, story-driven souls-like where you play as a warrior capable of transforming into a demonic form — drawing inspiration from the manga/anime *Claymore*. The power is real, but it comes at a price: every time you unleash it, you lose a piece of your humanity.
 
 The more you transform, the stronger you become — and the less human you remain.
+
+<img width="32" height="32" alt="Knight_Demon" src="https://github.com/user-attachments/assets/6a2f99b2-c5b3-4554-98a1-14a2f89331b7" />
 
 ---
 
